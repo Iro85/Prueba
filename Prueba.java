@@ -5,6 +5,7 @@ public class prueba{
 	System.out.println("Héctor Robles de Paz");
 	System.out.println("Naci en Leon");
 	System.out.println("Vivo en Leon");
-	
+	System.out.println("Naci en 1985");	
+
 	}
 }
